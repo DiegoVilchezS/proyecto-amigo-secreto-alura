@@ -36,7 +36,7 @@ Este proyecto permite al usuario ingresar nombres de amigos y realizar un sorteo
 </p>
 
 
-<h3>Tecnologías usadas</h3>
+<h3>4) Tecnologías usadas</h3>
 
 <p>
 Este proyecto está construido con tecnologías web fundamentales, por lo que no requiere de dependencias ni instalación de librerías externas para su funcionamiento.
