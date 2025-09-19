@@ -36,6 +36,19 @@ Este proyecto permite al usuario ingresar nombres de amigos y realizar un sorteo
 </p>
 
 
+<h3>Tecnologías usadas</h3>
+
+<p>
+Este proyecto está construido con tecnologías web fundamentales, por lo que no requiere de dependencias ni instalación de librerías externas para su funcionamiento.
+
+- HTML: Para la estructura y el contenido de la página.
+
+- CSS:Para el diseño y la interfaz de usuario.
+
+- JavaScript: Para la lógica del juego, las validaciones y el sorteo.
+</p>
+
+
 
 
 
