@@ -49,6 +49,28 @@ Este proyecto está construido con tecnologías web fundamentales, por lo que no
 </p>
 
 
+<h3>5) ¿Cómo ejecutarlo?</h3>
+
+<p>
+
+1.  Clonar el repositorio:
+    Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina local:
+    
+    `git clone https://github.com/DiegoVilchezS/proyecto-amigo-secreto-alura.git`
+
+2.  Abrir el proyecto:
+    Navega hasta la carpeta del proyecto y simplemente abre el archivo `index.html` en tu navegador de preferencia o utiliza la extensión Live Server en Visual Studio Code.
+
+</p>
+
+<h3>6) Tutorial</h3>
+
+
+
+https://github.com/user-attachments/assets/2bf636d2-3621-4102-bc8c-39a6bcb0ef9b
+
+
+
 
 
 
